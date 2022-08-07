@@ -183,20 +183,4 @@ main {
   height: 100%;
 }
 
-@media only screen and (max-width: 400px)
-{
-  .flex-container
-{
-  display: flex;
-  flex-direction: column;
-  width: 100%;
-  height: 100%;
-}
 
-section
-{
-  width: 100%;
-  height: 100%;
-}
-
-}
